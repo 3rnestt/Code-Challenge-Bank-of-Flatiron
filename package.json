@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge-bank-of-flatiron",
+  "version": "1.0.0",
+  "description": "A react app that displays a list of your recent bank transactions among other features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/3rnestt/Code-Challenge-Bank-of-Flatiron.git"
+  },
+  "author": "Ernest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3rnestt/Code-Challenge-Bank-of-Flatiron/issues"
+  },
+  "homepage": "https://github.com/3rnestt/Code-Challenge-Bank-of-Flatiron#readme"
+}
